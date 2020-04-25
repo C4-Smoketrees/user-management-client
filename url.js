@@ -1,1 +1,1 @@
-module.exports = 'https://localhost:8443/user'
+module.exports = process.env.USER_MANAGEMENT_URL
