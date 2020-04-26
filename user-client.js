@@ -172,4 +172,4 @@ class UserClient {
   }
 }
 
-module.exports = UserClient
+module.exports = new UserClient()
