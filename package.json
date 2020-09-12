@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/c4-smoketrees/user-management-client#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
